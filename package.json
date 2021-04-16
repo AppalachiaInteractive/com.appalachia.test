@@ -24,8 +24,8 @@
     "postversion": "ai.sh package postversion",
     "prepack": "ai.sh package prepack",
     "postpack": "ai.sh package postpack",
-    "prepublishOnly": "ai.sh package prepublishOnly",
-    "publish": "ai.sh package publish",
-    "postpublish": "echo $PATH && ai.sh package postpublish"
+    "prepublishOnly": "sh ai.sh package prepublishOnly",
+    "publish": "sh ai.sh package publish",
+    "postpublish": "echo $PATH && sh ai.sh package postpublish"
   }
 }
