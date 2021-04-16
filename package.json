@@ -6,7 +6,9 @@
   "description": "A scratch repository for testing Appalachia Interactive VI & DevOps workflows.",
   "keywords": [
     "Scripts",
-    "Tool"
+    "Tool",
+    "Appalachia",
+    "AppalachiaInteractive"
   ],
   "category": "Tool",
   "license": "MIT",
