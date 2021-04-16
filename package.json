@@ -1,7 +1,7 @@
 {
   "name": "com.appalachia.test",
   "displayName": "Test",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "unity": "2020.3",
   "description": "A scratch repository for testing Appalachia Interactive VI & DevOps workflows.",
   "keywords": [
