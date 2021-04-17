@@ -11,4 +11,5 @@
 # v0.1.5
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
+| 5c17ef2 | 2021-04-16 | Chris Schubert | Testing doc auto generation. |
 | 7050169 | 2021-04-16 | Chris Schubert | Testing unreleased changes functionality |
