@@ -13,6 +13,11 @@
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
 <br> 
+ ## Tag: v0.2.1
+| Hash | Date | Author | Changes |
+|------|------|--------|---------|
+| c3680f1 | 2021-04-17 | Chris Schubert | Fixing formatting error with changelog |
+<br> 
  ## Tag: v0.2.0
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
