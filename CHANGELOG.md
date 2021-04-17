@@ -12,6 +12,13 @@
 ## Unreleased
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
+| e2287fd | 2021-04-17 | Chris Schubert | Merge branch 'main' of https://github.com/AppalachiaInteractive/com.appalachia.test |
+| d8a727f | 2021-04-17 | Chris Schubert | Designing setup for adding headers to README.md |
+| f33d3d9 | 2021-04-17 | Chris Schubert | Update README.md |
+<br> 
+ ## Tag: v0.2.3
+| Hash | Date | Author | Changes |
+|------|------|--------|---------|
 | b7c7b78 | 2021-04-17 | Chris Schubert | Running npm scripts via bash for process substittuion test |
 <br> 
  ## Tag: v0.2.2
