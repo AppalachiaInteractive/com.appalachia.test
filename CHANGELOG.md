@@ -12,6 +12,12 @@
 ## Unreleased
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
+| b7c7b78 | 2021-04-17 | Chris Schubert | Running npm scripts via bash for process substittuion test |
+<br> 
+ ## Tag: v0.2.2
+| Hash | Date | Author | Changes |
+|------|------|--------|---------|
+| 0a14794 | 2021-04-17 | Chris Schubert | Testing docs formatting generation |
 <br> 
  ## Tag: v0.2.1
 | Hash | Date | Author | Changes |
