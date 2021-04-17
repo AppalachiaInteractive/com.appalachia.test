@@ -8,8 +8,8 @@
 ```
 
 
-# v0.1.5
+# 0.2.0
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
+| 714dbdb | 2021-04-17 | Chris Schubert | Finishing formatting tests for documents |
 | 5c17ef2 | 2021-04-16 | Chris Schubert | Testing doc auto generation. |
-| 7050169 | 2021-04-16 | Chris Schubert | Testing unreleased changes functionality |
