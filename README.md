@@ -14,4 +14,4 @@ _/  |_  ____   _______/  |_
 ## com.appalachia.test
 ### Created by Appalachia Interactive
 
-A scratch repository for testing Appalachia Interactive VI & DevOps workflows.
+A scratch repository for testing Appalachia Interactive CI & DevOps workflows.
